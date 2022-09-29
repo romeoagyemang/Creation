@@ -1,0 +1,49 @@
+.display-4{
+    background-image: url(images2/2.jpg);
+    height: 500px;
+    text-align: center;
+}
+.navbar-brand{
+    font: Tahoma;
+    font-size: 25px;
+}
+.input-group{
+    margin-left: 170px;
+    width: 1000px;
+    margin-top: 150px;  
+}
+.btn{
+   margin-right: 5px;
+}
+.container-fluid{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.display-6{
+    padding-top: 20px;
+    padding-left: 520px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.nav-link{
+    font: Tahoma;
+    font-size: 20px;
+}
+.nav-link:hover{
+   text-decoration-line: underline;
+   text-decoration-color: forestgreen;
+}
+.carousel-caption{
+    bottom: 150px;
+}
+.carousel-caption h5{
+    font-size: 45px;
+    font-family: tahoma;
+    text-transform:uppercase;
+    margin-top: 25px;
+    letter-spacing: 2px;
+}
+.img{
+    width: 200px;
+    height: 50px;
+}
